@@ -1,1 +1,1 @@
-# azure-spring-boot-deploy
+# azure-spring-boot-github-actions
